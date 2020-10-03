@@ -1,0 +1,39 @@
+body
+{
+	background-color:#191919;
+}
+#all
+{
+	position:Absolute;
+}
+#header
+{
+	
+	background-color:#191919;
+	color:#B5B5B5;
+	
+	height:580px;
+	float:left;
+	width:13,9%;
+	font-size:23px;
+	line-height:80px;
+	 text-shadow: 4px 4px #3A3A3A;
+	   font-family: "Lucida Console", Courier, monospace;
+	
+	
+	
+}
+#main
+{	
+border-left:1px solid #666666; 
+border-bottom:1px solid #666666; 
+float:right;
+	width:86%;
+	height:580px;
+	background-image: url(tlo.jpg) 
+}
+#footer
+{clear:both;
+	background-color:#191919;
+	color:#B5B5B5;
+}
